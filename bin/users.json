@@ -1,0 +1,74 @@
+[
+  {
+    "username": "Mario",
+    "password": "tulipano",
+    "play_this_word": false,
+    "games_played": 5,
+    "games_won": 3,
+    "victory_rate": 60,
+    "victory_streak": 2,
+    "max_victory_streak": 2,
+    "guess_distribution": {
+      "1": 2,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0
+    }
+  },
+  {
+    "username": "Luigi",
+    "password": "serpente",
+    "play_this_word": false,
+    "games_played": 1,
+    "games_won": 1,
+    "victory_rate": 100,
+    "victory_streak": 1,
+    "max_victory_streak": 1,
+    "guess_distribution": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0
+    }
+  },
+  {
+    "username": "ciao",
+    "password": "fra",
+    "play_this_word": false,
+    "games_played": 0,
+    "games_won": 0,
+    "victory_rate": 0,
+    "victory_streak": 0,
+    "max_victory_streak": 0,
+    "guess_distribution": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0
+    }
+  }
+]

@@ -1,0 +1,2 @@
+Main-Class: MainServer
+Class-Path: ../libs/gson-2.10.jar
